@@ -1,8 +1,8 @@
-simple todo-app 
-using python-flask
-Flask==2.3.3
-app.py
-templates/index.html
+# simple todo-app 
+# using python-flask
+ # Flask==2.3.3
+ # app.py
+ # templates/index.html
 static/css/style.css
 todos.json
 requirements.txt
